@@ -7,7 +7,11 @@ etc., with mutations ending in ? conveted to non-N ambiguous characters.
 
 Example pipeline:
 
-`python makeTreeMoveTestExamples.py example1.txt`
-`faToVcf example1_1.fa example1_1.vcf`
-`faToVcf example1_2.fa example1_2.vcf`
+`python makeTreeMoveTestExamples.py example1.txt`  
+
+`faToVcf example1_1.fa example1_1.vcf`  
+
+`faToVcf example1_2.fa example1_2.vcf`  
+
+
 Then use UShER to create a tree from example1_1.vcf and add samples from example1_2.vcf to that tree.
