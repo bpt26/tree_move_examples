@@ -1,7 +1,6 @@
 To use for testing UShER on tree move examples. Run `python makeTreeMoveTestExamples.py example1.txt` to yield a set of 2 fasta files corresponding to the example given. Example files should follow this format:
 
-S1	m1,m2
-
+S1	m1,m2  
 S2	m1?,m3
 
 etc., with mutations ending in ? conveted to non-N ambiguous characters.
