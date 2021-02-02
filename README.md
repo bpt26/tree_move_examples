@@ -14,6 +14,7 @@ etc., with mutations ending in ? converted to IUPAC representing reference or al
 I have been following this protocol:  
 
 - First, create an example.txt file like the one above. Then:  
+
 `python makeTreeMoveTestExamples.py EXAMPLES/example12.txt 4`    
 `faToVcf EXAMPLES/example12_1.fa EXAMPLES/example12_1.vcf`    
 `python addFakeLastLine.py EXAMPLES/example12_1.vcf`    
