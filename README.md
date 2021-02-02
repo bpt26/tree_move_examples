@@ -22,12 +22,12 @@ I have been following this protocol:
 `python addFakeLastLine.py EXAMPLES/example12_2.vcf`    
 
 `usher --tree empty.nh --vcf EXAMPLES/example12_1.vcf --collapse-tree --save-mutation-annotated-tree EXAMPLES/example12.pb`    
-`mv final-tree.nh initial_tree.nh`    
-`usher --tree initial_tree.nh --vcf EXAMPLES/example12_1.vcf --collapse-tree --save-mutation-annotated-tree EXAMPLES/example12.pb`    
-`mv final-tree.nh initial_tree.nh`    
+`mv final-tree.nh e12.nh`    
+`usher --tree e12.nh --vcf EXAMPLES/example12_1.vcf --collapse-tree --save-mutation-annotated-tree EXAMPLES/example12.pb`    
+`mv final-tree.nh e12.nh`    
 `usher --vcf EXAMPLES/example12_2.vcf --load-mutation-annotated-tree EXAMPLES/example12.pb --write-uncondensed-final-tree`    
-`mv uncondensed-final-tree.nh ex12Final.nh`    
-- Then, load "initial_tree.nh" and "ex12Final.nh" into FigTree, and look for ways that the tree could be made better in terms of total mutations.
+`mv uncondensed-final-tree.nh e12Final.nh`    
+- Then, load "e12.nh" and "e12Final.nh" into FigTree, and look for ways that the tree could be made better in terms of total mutations.
 
 In this directory are two example files where one tree-move results in a better tree than what UShER produces. I will attach all such examples to this directory as I find them.  
 
