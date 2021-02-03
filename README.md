@@ -39,3 +39,8 @@ Example 10:
 Example 11:  
 
 <img src='edited_e11.png' alt='E10' width='910'/>
+
+
+Example 16:  
+
+<img src='edited_e16.jpeg' alt='E16' width='910'/>
