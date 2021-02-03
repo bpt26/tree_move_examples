@@ -43,4 +43,4 @@ Example 11:
 
 Example 16:  
 
-<img src='edited_e16.jpeg' alt='E16' width='910'/>
+<img src='e16.jpeg' alt='E16' width='910'/>
