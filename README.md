@@ -11,6 +11,8 @@ S8	m6
 
 etc., with mutations ending in ? converted to IUPAC representing reference or alt.
 
+**Files whose handles end in `_1` contain data for samples present in the initial tree, while files whose handles end in `_2` contain data for samples to be added to the initial tree by UShER.**
+
 I have been following this protocol:  
 
 - First, create an example.txt file like the one above. Then:  
