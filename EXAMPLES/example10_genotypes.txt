@@ -1,0 +1,7 @@
+m1	G18T
+m2	T6C
+m3	T20G
+m4	A4T
+m5	T22A
+m6	T27C
+m7	G19C

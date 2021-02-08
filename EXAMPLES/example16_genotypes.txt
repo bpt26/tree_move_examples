@@ -1,0 +1,9 @@
+m1	T16C
+m2	C9G
+m3	C20G
+m4	A8C
+m5	G1T
+m6	G14C
+m7	G13C
+m8	A30C
+m9	G18T

@@ -1,0 +1,8 @@
+m1	T30A
+m2	T17A
+m3	A6G
+m4	T12A
+m5	A4G
+m6	T18C
+m7	A16C
+m8	C25G

@@ -1,0 +1,11 @@
+##fileformat=VCFv4.2
+##reference=EXAMPLES/example16_2.fa:Ref
+##source=faToVcf EXAMPLES/example16_2.fa EXAMPLES/example16_2.vcf
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	S5	S6	S7	S8	S9
+Ref	1	G1T	G	T	.	.	AC=4;AN=6	GT	1	1	1	1	0
+Ref	8	A8C	A	C	.	.	AC=5;AN=6	GT	1	1	1	1	1
+Ref	13	G13C	G	C	.	.	AC=3;AN=6	GT	1	1	1	0	0
+Ref	14	G14C	G	C	.	.	AC=2;AN=6	GT	1	1	0	0	0
+Ref	16	T16C	T	C	.	.	AC=1;AN=6	GT	1	0	0	0	0
+Ref	30	A30C	A	C	.	.	AC=5;AN=6	GT	1	1	1	1	1
+Ref	31	A31T	A	T	.	.	AC=0;AN=6	GT	0	0	0	0	0
