@@ -43,7 +43,7 @@ Example 11:
 
 Example 16:  
 
-<img src='e16Edit.jpeg' alt='E16' width='910'/>
+<img src='e16Edit.jpg' alt='E16' width='910'/>
 
 Example 17:  
 
