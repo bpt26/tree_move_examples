@@ -15,7 +15,7 @@ I have been following this protocol:
 
 - First, create an example.txt file like the one above. Then:  
 
-`python makeTreeMoveTestExamples.py EXAMPLES/example1.txt 4`    
+`python makeTreeMoveTestExamples.py EXAMPLES/example1.txt 4 #for simplicity, i always start with a 4-sample tree`    
 `faToVcf EXAMPLES/example1_1.fa EXAMPLES/example1_1.vcf`    
 `python addFakeLastLine.py EXAMPLES/example1_1.vcf`    
 `faToVcf EXAMPLES/example1_2.fa EXAMPLES/example1_2.vcf`    
