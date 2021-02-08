@@ -1,4 +1,4 @@
-To use for testing UShER on tree move examples. Run `python makeTreeMoveTestExamples.py example1.txt` to yield a set of 2 fasta files corresponding to the example given. Example files should follow this format:
+To use for testing UShER on tree move examples. Run `python makeTreeMoveTestExamples.py <example.txt> <number_of_sequences_in_starting_tree>` to yield a set of 2 fasta files corresponding to the example given, one with all samples to be in the initial tree, and one with all samples to be added. Example files should follow this format:
 
 S1	m1,m2,m3  
 S2	m1  
