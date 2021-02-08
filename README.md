@@ -33,18 +33,18 @@ In this directory are two example files where one tree-move results in a better 
 
 Example 10:  
 
-<img src='edited_e10.png' alt='E10' width='910'/>  
+<img src='IMAGES/edited_e10.png' alt='E10' width='910'/>  
 
 
 Example 11:  
 
-<img src='edited_e11.png' alt='E10' width='910'/>
+<img src='IMAGES/edited_e11.png' alt='E10' width='910'/>
 
 
 Example 16:  
 
-<img src='e16Edit.jpg' alt='E16' width='910'/>
+<img src='IMAGES/e16Edit.jpg' alt='E16' width='910'/>
 
 Example 17:  
 
-<img src='e17Edit.jpeg' alt='E16' width='910'/>
+<img src='IMAGES/e17Edit.jpeg' alt='E16' width='910'/>
