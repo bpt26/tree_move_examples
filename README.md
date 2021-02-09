@@ -50,3 +50,7 @@ Example 16:
 Example 17:  
 
 <img src='IMAGES/e17Edit.jpeg' alt='E16' width='910'/>
+
+Example 18:  
+
+<img src='IMAGES/e18.jpeg' alt='E16' width='910'/>
