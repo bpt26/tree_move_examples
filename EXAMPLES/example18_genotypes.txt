@@ -1,0 +1,6 @@
+m1	T20C
+m2	G21T
+m3	A12G
+m4	C25T
+m5	C19A
+m6	C6A
